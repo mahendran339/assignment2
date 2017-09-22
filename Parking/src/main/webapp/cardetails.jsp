@@ -109,7 +109,7 @@ function loadDoc() {
 
  
  <br>
-  <form id="cardetails" action="SaveDetails" method="POST" role="form" style="display: block;">
+  <form id="cardetails" action="SaveDetails" method="POST"  style="display: block;">
 <div align="center"  class="containers"> 
     <br> 
   <span>Car Number:</span>
