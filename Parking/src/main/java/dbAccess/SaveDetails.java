@@ -68,7 +68,7 @@ public class SaveDetails extends HttpServlet {
 		out.println("<div>Time : "+time+"</div>");
 		out.println("<div>Cost : "+cost+"</div>");
 		out.println("<div>Current Time : "+new Date()+"</div>");
-		out.println("</body></html>");
+		out.println("</body><br></html>");
 	/*	RequestDispatcher view = request.getRequestDispatcher("html/mypage.html");
 		view.forward(request, response);*/
 		
